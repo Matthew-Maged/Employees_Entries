@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1733690152 source:d:\iti_data\c\multilineeditor_withdatamenu_modification\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
